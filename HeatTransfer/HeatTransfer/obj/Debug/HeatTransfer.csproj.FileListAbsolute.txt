@@ -1,0 +1,10 @@
+U:\cis300\scholars\spring18\projects\HeatTransfer\HeatTransfer\bin\Debug\HeatTransfer.exe.config
+U:\cis300\scholars\spring18\projects\HeatTransfer\HeatTransfer\bin\Debug\HeatTransfer.exe
+U:\cis300\scholars\spring18\projects\HeatTransfer\HeatTransfer\bin\Debug\HeatTransfer.pdb
+U:\cis300\scholars\spring18\projects\HeatTransfer\HeatTransfer\obj\Debug\HeatTransfer.csprojResolveAssemblyReference.cache
+U:\cis300\scholars\spring18\projects\HeatTransfer\HeatTransfer\obj\Debug\HeatTransfer.Properties.Resources.resources
+U:\cis300\scholars\spring18\projects\HeatTransfer\HeatTransfer\obj\Debug\HeatTransfer.UserInterface.resources
+U:\cis300\scholars\spring18\projects\HeatTransfer\HeatTransfer\obj\Debug\HeatTransfer.csproj.GenerateResource.Cache
+U:\cis300\scholars\spring18\projects\HeatTransfer\HeatTransfer\obj\Debug\HeatTransfer.csproj.CoreCompileInputs.cache
+U:\cis300\scholars\spring18\projects\HeatTransfer\HeatTransfer\obj\Debug\HeatTransfer.exe
+U:\cis300\scholars\spring18\projects\HeatTransfer\HeatTransfer\obj\Debug\HeatTransfer.pdb
